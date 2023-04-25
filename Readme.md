@@ -1,7 +1,8 @@
 # Reproduce DrBC model
 
-The goal of the homework is to reproduce the paper [Learning to Identify High Betweenness Centrality Nodes from Scratch: A Novel Graph Neural Network Approach](https://arxiv.org/abs/1905.10418) (as much as possible).
-This [DrBC.ipynb](https://github.com/Lin-chia6/MLG_hw1_DrBC/blob/main/DrBC.ipynb) is followed by paper and based on [emschenn/mlg-hw1](https://github.com/emschenn/mlg-hw1/blob/master/DrBC.ipynb).
+The goal of the homework is to reproduce this paper [Learning to Identify High Betweenness Centrality Nodes from Scratch: A Novel Graph Neural Network Approach](https://arxiv.org/abs/1905.10418) (as much as possible).
+
+This [DrBC.ipynb](https://github.com/Lin-chia6/MLG_hw1_DrBC/blob/main/DrBC.ipynb) is followed by paper and based on [emschenn/mlg-hw1](https://github.com/emschenn/mlg-hw1).
 
 ## Description of homework1 dataset
 
