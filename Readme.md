@@ -1,4 +1,7 @@
-# Description of homework1 dataset
+
+This DrBC.ipynb followed by paper and inspired by https://github.com/emschenn/mlg-hw1/blob/master/DrBC.ipynb
+
+## Description of homework1 dataset
 
 There are two datasets in hw1_data.zip file, including a Synthetic data and a real world data.
 
